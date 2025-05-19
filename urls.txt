@@ -1,0 +1,4 @@
+www.example
+http:/example.com
+https://www.example.com
+https://subdomain.example.org/page
