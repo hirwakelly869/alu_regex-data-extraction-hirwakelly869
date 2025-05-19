@@ -1,0 +1,2 @@
+user@example.com
+firstname.lastname@company.co.uk
